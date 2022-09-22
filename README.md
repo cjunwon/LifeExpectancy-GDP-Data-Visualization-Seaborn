@@ -1,6 +1,7 @@
 # LifeExpectancy-GDP-Data-Visualization-Seaborn
 Basic data visualization practice with Seaborn (Life Expectancy &amp; GDP)
 
+Click [here](https://github.com/cjunwon/LifeExpectancy-GDP-Data-Visualization-Seaborn/blob/main/life_expectancy_gdp.ipynb) to see the Jupyter notebook file with visualization and analysis.
 The project investigates the correlation between the economic output of a country and the life expectancy of its citizens.
 The Jupyter notebook file demonstrates exploratory data analysis, data cleaning, and data visualization using the Seaborn package.
 
